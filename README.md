@@ -2,7 +2,7 @@
 
 A high-performance implementation of Grover's quantum search algorithm for DNA sequence analysis, featuring C++ acceleration for computational speedup.
 
-![result](grover_enhanced_results)
+![result](grover_enhanced_results.png)
 
 ## Features
 

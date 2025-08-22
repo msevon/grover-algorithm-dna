@@ -4,7 +4,7 @@ A high-performance implementation of Grover's quantum search algorithm for DNA s
 
 ## Features
 
-- **Quantum-inspired algorithm** for DNA motif searching
+- **Quantum algorithm simulation** for DNA motif searching
 - **C++ acceleration** providing 10-50x performance improvements
 - **Multi-threading support** for large sequence analysis
 - **Real-time DNA validation** and GC content calculation
